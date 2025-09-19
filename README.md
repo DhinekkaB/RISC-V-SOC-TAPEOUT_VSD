@@ -47,12 +47,12 @@ For more info, visit: [VSD Website](https://www.vlsisystemdesign.com)
 ---
 
 ## 🙏 Acknowledgment
-Special thanks to **Kunal Ghosh** and the **VSD team** for designing this excellent program and for their continuous support in enabling open-source chip design education.
+Special thanks to **[Kunal Ghosh](https://github.com/kunalg123)** and the **[VSD team](https://www.vlsisystemdesign.com/)** for designing this excellent program and for their continuous support in enabling open-source chip design education.
 
 ---
 
 ## 👨‍💻 Contributor
-- **Dhinekka**
+- **[Dhinekka](https://github.com/DhinekkaB)**
 
 ---
 
