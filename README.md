@@ -36,13 +36,13 @@ For more info, visit: [VSD Website](https://www.vlsisystemdesign.com)
 
 ---
 
-## 📊 Repo Widgets
+## 📊
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DhinekkaB/RISC-V-SOC-TAPEOUT_VSD?color=blue&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/DhinekkaB/RISC-V-SOC-TAPEOUT_VSD?style=for-the-badge&color=yellow)
 ![GitHub stars](https://img.shields.io/github/stars/DhinekkaB/RISC-V-SOC-TAPEOUT_VSD?style=for-the-badge&color=brightgreen)
 ![GitHub forks](https://img.shields.io/github/forks/DhinekkaB/RISC-V-SOC-TAPEOUT_VSD?style=for-the-badge&color=orange)
-![License](https://img.shields.io/github/license/DhinekkaB/RISC-V-SOC-TAPEOUT_VSD?style=for-the-badge&color=red)
+![LICENSE](https://img.shields.io/github/license/DhinekkaB/RISC-V-SOC-TAPEOUT_VSD?style=for-the-badge&color=red)
 
 ---
 
