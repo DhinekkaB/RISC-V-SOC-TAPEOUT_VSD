@@ -7,12 +7,12 @@ The focus is on understanding the basics of VLSI SoC design flow, setting up the
 
 ## 📂 Tasks Overview
 
-### 🔹 [Task 1: Getting Started with Digital VLSI SoC Design and Planning](./TASK1/README.md)
+### 🔹 [Task 1: Getting Started with Digital VLSI SoC Design and Planning](./Task1/README.md)
 Gain an introduction to **Digital VLSI SoC design**, learn about the overall flow from RTL to GDSII, and understand how planning is crucial for a successful tapeout.
 
 ---
 
-### 🔹 [Task 2: Tools Installation Instructions](./TASK2/README.md)
+### 🔹 [Task 2: Tools Installation Instructions](./Task2/README.md)
 Step-by-step installation of all required **open-source EDA tools**, ensuring the environment is properly configured for upcoming tasks in the program.
 
 ---
