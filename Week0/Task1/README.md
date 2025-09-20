@@ -65,7 +65,7 @@ With a verified RTL, the design moves into the **SoC implementation stage**:
 Below is the overall **Digital VLSI SoC Design and Planning flow**:
 
 <p align="center">
-  <img src="./Images/soc_flow.png" alt="SoC Design Flow" width="800"/>
+  <img src="./Images/soc_flow.png" alt="SoC Design Flow" width="600" height="350"/>
 </p>
 
 ---
